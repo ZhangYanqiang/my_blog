@@ -2,7 +2,7 @@
 
 技术栈：laravel+dingo/api
 
-前端部分见：
+前端部分见：https://github.com/ZhangYanqiang/my_blog_view
 
 技术栈：vue.js+axios+elementUI+vue-router
 
